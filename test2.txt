@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is F01C-7D45
+
+ Directory of C:\Mahathi\SampleGitProject
+
+03/14/2019  01:09 PM    <DIR>          .
+03/14/2019  01:09 PM    <DIR>          ..
+03/13/2019  09:33 PM               400 index.html
+03/13/2019  09:33 PM               363 test1.txt
+03/14/2019  01:09 PM                 0 test2.txt
+               3 File(s)            763 bytes
+               2 Dir(s)  383,704,027,136 bytes free
